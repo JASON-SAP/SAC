@@ -1,0 +1,39 @@
+/* Calibri Regular */
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/JASON-SAP/SAC/blob/main/calibri-regular.ttf)
+    format("truetype");
+}
+
+/* Calibri Italic */
+@font-face {
+  font-family: "Calibri";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/JASON-SAP/SAC/blob/main/calibri-italic.ttf)
+    format("truetype");
+}
+
+/* Calibri Bold */
+@font-face {
+  font-family: "Calibri";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://github.com/JASON-SAP/SAC/blob/main/calibri-bold.ttf)
+    format("truetype");
+}
+
+/* Calibri Bold Italic */
+@font-face {
+  font-family: "Calibri";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://github.com/JASON-SAP/SAC/blob/main/calibri-bold-italic.ttf)
+    format("truetype");
+}
